@@ -1,0 +1,45 @@
+.d1{
+    
+    width: 90%;
+    height: 50%;
+    margin: 10% 10% 10% 1%;
+    color: darkgray;
+        
+}
+.d2
+{
+    
+    border: solid 1px black;
+    border-color: darkslategrey;
+    width: 24%;    
+        height: 55%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.d3
+{
+    
+    border: solid 1px black;
+    border-color: darkslategrey;
+     width: 24%;   
+         height: 55%;
+    position: absolute;
+    top: 25%;
+    left: 49.5%;
+}
+.d4
+{
+    position: absolute;
+    top: 21.66%;
+    left: 74%;
+}
+button
+{
+    color: white;
+    background-color: #020242;
+    border: none;
+    width: 40%;
+    height: 17%;
+    margin: 0% 0% 6% 0%;
+}

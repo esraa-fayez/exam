@@ -1,0 +1,78 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+div{
+    background-image: url(contact-bg.jpg);
+    height: 100%;
+    color:silver;
+    width: 100%;
+}
+
+.p1::before
+{
+    content: url(facebook-placeholder-for-locate-places-on-maps.png);   
+}
+.p2::before
+{
+    content: url(call-answer.png)  
+}
+.p3::before
+{
+    content: url(mail-black-envelope-symbol.png);  
+}
+.p1
+{
+ margin-top: -3%;   
+}
+.p2
+{
+    margin-top: -3%;   
+}
+.p3
+{
+    margin-top: -3%;   
+}
+img{
+    
+    margin-top: 4%;
+    margin-right: 2%;
+}
+.pre1{
+    position: absolute;
+    top: 10%;
+    left: 8%;
+}
+.pre2{
+    position: absolute;
+    top: 15%;
+    left: 36%;
+}
+input{
+  width: 20%;
+    height: 7%;
+    
+}
+textarea
+{
+    
+   width: 40.4%;
+    height: 17%; 
+}
+button
+{
+    
+    background-color: beige;
+     border: none;
+    width: 7%;
+    height: 6%;
+    margin-left: 33.5%;
+    border-radius: 10%;
+}
+form{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 20%;
+    left: 55%;
+}
+img{
+    margin-left: 5%;
+}
